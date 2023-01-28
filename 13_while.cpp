@@ -20,7 +20,7 @@ int main()
     do{
         cout<<i<<" ";
         i++;
-    }while(i<=999999);
+    }while(i<=9^100);
     
     cout<<"____DONE!________"<<endl; // -----------
 
