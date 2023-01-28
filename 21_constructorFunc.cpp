@@ -39,19 +39,6 @@ int main()
     cout<<"-----------------------------------------"<<endl; // -----------
     book1.title = "Potter H.";
     cout<<book1.title<<endl;
-    // cout<<book1.author<<endl;
-    // cout<<book1.pages<<endl;
-
-
-    // cout<<"____________\n"<<endl; // -----------
-
-
-    // cout<<book2.title<<endl;
-    // cout<<book2.author<<endl;
-    // cout<<book2.pages<<endl;
-
-
-    // cout<<"____________\n"<<endl; // -----------
 
     return 0;
 }
