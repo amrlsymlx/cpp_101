@@ -23,7 +23,7 @@ int main()
     }while(i<=999999);
     
     // -----------
-    cout<<"____________\n"<<endl;
+    cout<<"______DONE______\n"<<endl;
 
     system("pause");
     return 0;
