@@ -9,6 +9,9 @@ int main()
         cout<<i<<endl;
     }
     
+    // -----------
+    cout<<"____________\n"<<endl;
+
     int num[] = {1,2,3,4,5};
 
     for(int i=0; i<=4; i++){
