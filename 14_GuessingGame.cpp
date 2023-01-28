@@ -24,4 +24,6 @@ int main()
     } else {
         cout<<"You Win!";
     }
+
+    return 0;
 }

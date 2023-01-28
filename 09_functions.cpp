@@ -2,9 +2,9 @@
 
 using namespace std;
 
-void firstFunction(string name, int age){
+void firstFunction(string name, int age){  //---Func----
     cout<<"Hello "<<name<<"!"<<" This is my first C++ function! "<<"You are "<<age<<" years old."<<endl;
-}
+} //---Func----
 
 int main()
 {

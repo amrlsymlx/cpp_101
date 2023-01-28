@@ -7,7 +7,7 @@ class Book {
         string author;
         int pages;
 
-        Book(string aTitle, string aAuthor, int aPages){
+        Book(string aTitle, string aAuthor, int aPages){  //---Constructor Func Start----
             title = aTitle;
             author =aAuthor;
             pages = aPages;
@@ -16,9 +16,9 @@ class Book {
             cout<<"Title : "<<aTitle<<endl;
             cout<<"Author : "<<aAuthor<<endl;
             cout<<"Pages: "<<aPages<<endl;
-        }
+        } //---Constructor Func End----
 
-        Book(){
+        Book(){  //---Constructor Func Start----
            title = "No title";
             author ="No Author";
             pages = 0;
@@ -27,7 +27,7 @@ class Book {
             cout<<"Tittle : "<<title<<endl;
             cout<<"Author : "<<author<<endl;
             cout<<"Pages: "<<pages<<endl; 
-        }
+        } //---Constructor Func End----
 };
 
 int main()

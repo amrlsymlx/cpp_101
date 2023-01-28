@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-class Book {
+class Book {  //---Class----
     public:
         string title;
         string author;
         int pages;
         //class-->specifications/blueprint of an object
-};
+}; //---Class----
 
 int main()
 {

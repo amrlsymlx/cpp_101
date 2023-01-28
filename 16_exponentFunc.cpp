@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-int power (int baseNum, int powNum){
+int power (int baseNum, int powNum){ //---Exp func----
     int result = 1;
     for(int i=0; i<powNum; i++){
         result = result*baseNum;
     }
     return result;
-}
+} //---Exp func----
 
 int main()
 {
