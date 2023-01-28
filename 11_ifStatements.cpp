@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     bool isMale = true;
     bool isTall = true;
@@ -16,6 +16,8 @@ int main()
     } else {
         cout<<"You are a Female"<<endl;
     }
+
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     if(isMale && isTall){
         cout<<"You are a tall Male"<<endl;
@@ -28,13 +30,15 @@ int main()
         cout<<"You are a short female."<<endl;
     }
 
+    cout<<"-----------------------------------------"<<endl; // -----------
+
     if(isMale || isTall){
         cout<<"You are either a Male or tall or both"<<endl;
     } else {
         cout<<"You are a short Female"<<endl;
     }
 
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     int num1, num2, num3;
 
@@ -50,7 +54,7 @@ int main()
         cout<<num3<<endl;
     }
 
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     return 0;
 }

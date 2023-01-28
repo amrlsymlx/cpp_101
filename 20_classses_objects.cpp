@@ -11,7 +11,7 @@ class Book {
 
 int main()
 {
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     Book book1;
     book1.title = "Harry Potter";
@@ -22,7 +22,7 @@ int main()
     cout<<book1.author<<endl;
     cout<<book1.pages<<endl;
 
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
 
     Book book2;
     book2.title = "Lord of the Rings";
@@ -33,7 +33,7 @@ int main()
     cout<<book2.author<<endl;
     cout<<book2.pages<<endl;
 
-    cout<<"____________\n"<<endl; // -----------
+    cout<<"-----------------------------------------"<<endl; // -----------
     
     return 0;
 }
