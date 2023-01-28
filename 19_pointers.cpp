@@ -18,8 +18,13 @@ int main()
     string *pName = &name;
 
     cout<<pAge<<endl;
+    cout<<*pAge<<endl;
     cout<<pGpa<<endl;
+    cout<<*pGpa<<endl;
     cout<<pName<<endl;
+    cout<<*pName<<endl;
+
+    //add * to de-reference pointer
     
     return 0;
 }
