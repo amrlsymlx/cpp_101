@@ -31,6 +31,22 @@ int main()
         cout<<"You are a short Female"<<endl;
     }
 
+     // -----------
+    cout<<"____________\n"<<endl;
+
+    int num1, num2, num3;
+
+    num1=10;
+    num2=20;
+    num3=3;
+
+    if(num1>num2 && num1>num3){
+        cout<<num1<<endl;
+    }else if(num2>num1 && num2>num3){
+        cout<<num2<<endl;
+    }else{
+        cout<<num3<<endl;
+    }
 
     return 0;
 }
