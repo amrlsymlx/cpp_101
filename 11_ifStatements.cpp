@@ -5,6 +5,9 @@ using namespace std;
 
 int main()
 {
+    
+    cout<<"____________\n"<<endl; // -----------
+
     bool isMale = true;
     bool isTall = true;
 
@@ -31,8 +34,7 @@ int main()
         cout<<"You are a short Female"<<endl;
     }
 
-     // -----------
-    cout<<"____________\n"<<endl;
+    cout<<"____________\n"<<endl; // -----------
 
     int num1, num2, num3;
 
@@ -47,6 +49,8 @@ int main()
     }else{
         cout<<num3<<endl;
     }
+
+    cout<<"____________\n"<<endl; // -----------
 
     return 0;
 }

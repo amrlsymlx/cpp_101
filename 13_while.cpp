@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+    cout<<"____________\n"<<endl; // -----------
+
     int i=1;
 
     while(i<=10){
@@ -11,8 +13,7 @@ int main()
         i++;
     }
 
-    // -----------
-    cout<<"____________\n"<<endl;
+    cout<<"____________\n"<<endl; // -----------
 
     i=1;
 
@@ -22,8 +23,7 @@ int main()
         i++;
     }while(i<=999999);
     
-    // -----------
-    cout<<"______DONE______\n"<<endl;
+    cout<<"____DONE!________\n"<<endl; // -----------
 
     system("pause");
     return 0;

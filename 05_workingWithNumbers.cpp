@@ -27,6 +27,8 @@ int main()
     cout<<10/3<<endl;
     cout<<10.0/3.0<<endl;
 
+    cout<<"____________\n"<<endl; // -----------
+
     // use cmath function
     cout<<pow(2,5)<<endl;
     cout<<sqrt(36)<<endl;
@@ -34,6 +36,8 @@ int main()
     cout<<floor(4.5)<<endl;
     cout<<fmax(3,10)<<endl;
     cout<<fmin(3,10)<<endl;
+
+    cout<<"____________\n"<<endl; // -----------
     
     return 0;
 }

@@ -4,13 +4,13 @@ using namespace std;
 
 int main()
 {
+    cout<<"____________\n"<<endl; // -----------
 
     for(int i=1; i<=100; i++){
         cout<<i<<endl;
     }
     
-    // -----------
-    cout<<"____________\n"<<endl;
+    cout<<"____________\n"<<endl; // -----------
 
     int num[] = {1,2,3,4,5};
 
@@ -18,6 +18,7 @@ int main()
         cout<<num[i]<<endl;
     }
 
+    cout<<"____________\n"<<endl; // -----------
 
     return 0;
 }
