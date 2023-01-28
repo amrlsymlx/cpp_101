@@ -4,4 +4,4 @@ Compiler install : https://www.freecodecamp.org/news/how-to-install-c-and-cpp-co
 
 C++ programming with VScode : https://code.visualstudio.com/docs/languages/cpp
 
-https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=0s
+Tutorial video: https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=0s
