@@ -13,6 +13,6 @@ int main()
     cout<<"He liked the name "<<characterName<<endl;
     cout<<"But did not like being "<<characterAge<<endl;
 
-    
+    system("pause");
     return 0;
 }
